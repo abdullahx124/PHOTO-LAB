@@ -17,20 +17,12 @@ Note that the MATLAB Compiler requires a license and is only available in certai
 ## Usage
 
 To use PHOTO-LAB, follow these steps:
-1. Open the `photo_lab.mlapp` file in MATLAB.
+1. Open the `photo_lab.mlappinstall` file in MATLAB.
 2. Choose an image to work on.
-3. Select the desired image processing operation from the menu on the left.
-4. Adjust the parameters for the selected operation.
-5. Click the "Process Image" button to apply the selected operation to the image.
-6. Save the processed image.
-
-## Contributing
-
-Contributions to PHOTO-LAB are welcome! To contribute, please follow these steps:
-1. Fork this repository.
-2. Create a new branch with your proposed changes.
-3. Make your changes and commit them.
-4. Submit a pull request to this repository.
+3. Select the desired image processing operation from the options given below th images.
+4. Adjust the parameters for the selected operation if available.
+5. NOw You can view the changes at in the right Output Image Window.
+6. Save/Export the processed image.
 
 ## License
 
@@ -43,5 +35,5 @@ The following individuals have contributed to the development of PHOTO-LAB:
 - Muhammad Awais 
 - Muhammad Usama 
 
-**`Note:`**
+### **`Note:`**
   If You want the source Code you can contact me at the given Email Above.
