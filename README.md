@@ -35,5 +35,3 @@ The following individuals have contributed to the development of PHOTO-LAB:
 - Muhammad Awais 
 - Muhammad Usama 
 
-### **`Note:`**
-  If You want the source Code you can contact me at the given Email Above.
