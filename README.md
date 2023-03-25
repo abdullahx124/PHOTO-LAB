@@ -2,7 +2,7 @@
 
 PHOTO-LAB is a MATLAB software application designed to facilitate users to perform various image processing operations. With PHOTO-LAB, users can apply different filters to images, perform image enhancement, steganography, color operations, and image transformations. Additionally, the software provides features to adjust different basic things like hue, saturation, brightness, and more. Users can also view RGB planes and histograms of images using this software.
 
-![PHOTO-LAB Interface](https://example.com/interface-image.png)
+![PHOTO-LAB Interface](Interface.png)
 
 ## Installation
 
