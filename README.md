@@ -33,5 +33,5 @@ This project is licensed under the GNU General Public License v3.0. See the [LIC
 The following individuals have contributed to the development of PHOTO-LAB:
 - Abdullah (abdullahx124@gmail.com)
 - Muhammad Awais (awaisramzan7297@gmail.com)
-- Muhammad Usama (usama03306587434@gmail.com)
+- Usama Shahid (usama03306587434@gmail.com)
 
